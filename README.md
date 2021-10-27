@@ -1,5 +1,7 @@
 # Creative Coding Portfolio
 <br></br>
+## Format (2021) - Supercollider, Processing, Audio, Visual, OSC Communication. 
+
 ## Displacement Native (2021) - Processing, Video, Audio, JSON Data.
 Commissioned by Chronic Insanity Festival in 2021.<br>
 <br></br>
@@ -12,4 +14,4 @@ Pixel values, JSON data, United Nations Human Rights Council, Chronic Insanity F
 
 ## Displacement Native (2018) - Max/MSP, JSON Data, Audio.
 
-## Format (2021) - Supercollider, Processing, Audio, Visual, OSC Communication. 
+
