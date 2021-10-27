@@ -10,4 +10,6 @@ Video data is loaded into a 2-D array to allow processing of each individual pix
 Pixel values, JSON data, United Nations Human Rights Council, Chronic Insanity Festival 2021, PGraphics, Canvas, Composition, Particle Systems, data parsing, commission, continuation, 
 <br>
 
-## Displacement Native (2018) - Max/MSP, JSON Data, Audio
+## Displacement Native (2018) - Max/MSP, JSON Data, Audio.
+
+## Format (2021) - Supercollider, Processing, Audio, Visual, OSC Communication. 
