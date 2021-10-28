@@ -33,12 +33,26 @@ https://user-images.githubusercontent.com/61235325/139272005-e59d604f-a134-47e4-
 ## Displacement Native (2018) - Max/MSP, JSON Data, Audio.
   
  <p>Displacement Native (2018) is a data sonification program written in Max/MSP. The data is taken from the United Nations Human Rights Council and is a measurement of displaced Syrians due to the Syrian civil war. The sonification process involves reducing the sample rate of an audio recording of the Syrian national anthem in relation to the quantity of people displaced. This has the effect of pulling the audio apart, intending to reflect on the nature of loss, in particular ones national and cultural identity. The piece was commissioned by the UK organisation Peshkar in collaboration with the Belgian organisation Out of The Box and the Centre for Intercultural Dialogue in North Macedonia (Former Republic of Yugoslavia). The piece was accompanied by a presentation at a conference on youth radicalisation in online spaces and methods for meeting these challenges. </p>
+ 
 
-<img src = "https://user-images.githubusercontent.com/61235325/139266586-c82b98d8-ccf1-47a4-8ba3-2b8ddf970285.png" width="80%" height="80%" align ="left">
-<img src = "https://user-images.githubusercontent.com/61235325/139267988-d6703880-2dbe-4fe6-b9a0-fb2891ab491e.png" width = "80%" height = "80%"align = "left">
+<br>
+<div class = "row">
+  <div class = "column">
+    <img src = "https://user-images.githubusercontent.com/61235325/139266586-c82b98d8-ccf1-47a4-8ba3-2b8ddf970285.png" width="25%" height="25%" >
+    <img src = "https://user-images.githubusercontent.com/61235325/139267988-d6703880-2dbe-4fe6-b9a0-fb2891ab491e.png" width = "25%" height = "25%">
+    <img src = "https://user-images.githubusercontent.com/61235325/139267999-da3ce47a-bd41-4db9-9ee4-f02810b30d58.png" width = "25%" height = "25%">
+    <img src = "https://user-images.githubusercontent.com/61235325/139268022-e12bd902-be59-43a9-871e-c664fb3640bc.png" width = "25%" height = "25%">
+  </div>
+</div>
+  
+<br><br>
+## Algorithmically Generated Images - Processing
 
+<br><br>
 
-<img src = "https://user-images.githubusercontent.com/61235325/139267999-da3ce47a-bd41-4db9-9ee4-f02810b30d58.png" width = "80%" height = "80%" align = "left">
-<img src = "https://user-images.githubusercontent.com/61235325/139268022-e12bd902-be59-43a9-871e-c664fb3640bc.png" width = "80%" height = "80%" align ="left"><br>
-
+<div class = "row">
+  <div class = "column">
+<img src = "https://user-images.githubusercontent.com/61235325/139310018-ce43a580-e998-474d-b177-f6692a661589.jpg" width ="50%" height = "50%">
+<img src = "https://user-images.githubusercontent.com/61235325/139310182-82782994-8d3e-4dd6-955e-440d68321cc3.jpg" width = "50%" height = "50%">
+    <
 
