@@ -2,6 +2,12 @@
 
 <p>Hello, welcome to a selection of work I have created over 5 years which highlight my experiences in the visual programming language Max/MSP, the java based language Processing, and Supercollider, an audio processing environment based on the smalltalk language and c-like functional programming. </p>
 
+
+https://user-images.githubusercontent.com/61235325/139256129-5cdb2344-e428-4a29-8690-c9c8a91bc2a4.mp4
+
+
+
+
 ## Format (2021) - Supercollider, Processing, Audio, Visual, OSC Communication. 
 
 <p>Format is an audiovisual performance exploring communication between different performance systems. It utilises OSC (Open Sound Control) to create a performative language between the audio of Supercollider and the visuals of Processing. OSC is a universal communication protocol that connect a host of contemporary design systems together i.e. Processing, OpenFrameworks, Unity, Unreal, Supercollider. The performance was created for No Bounds Festival 2021 as part of the algorithmic art program.</p> 
@@ -19,9 +25,11 @@
   
  <p>Displacement Native (2018) is a data sonification program written in Max/MSP. The data is taken from the United Nations Human Rights Council and is a measurement of displaced Syrians due to the Syrian civil war. The sonification process involves reducing the sample rate of an audio recording of the Syrian national anthem in relation to the quantity of people displaced. This has the effect of pulling the audio apart, intending to reflect on the nature of loss, in particular ones national and cultural identity. The piece was commissioned by the UK organisation Peshkar in collaboration with the Belgian organisation Out of The Box and the Centre for Intercultural Dialogue in North Macedonia (Former Republic of Yugoslavia). The piece was accompanied by a presentation at a conference on youth radicalisation in online spaces and methods for meeting these challenges. </p>
 
-<p align = "center"><img src = "https://db3pap005files.storage.live.com/y4moLKUHKUGmEz4wkuU3TVf-z0x99jDyzkxmUKQuihhJDzG2FcoVHvOeRksbUW8zOC5VLt1QJxBNwROUFeutuWfvLdKEAMxq5AMbvSbvgRkzfDbJfjrLNndf34Ptjv2rjap_XeB9qrprHcNo4pHVagoJnwBdgYFPC7APUJ3l-bktBQ2kCgMu_hIcq0Qlkw4Vrsg?width=1024&height=576&cropmode=none">
-  
-<p align = "center"> <img src = "https://db3pap005files.storage.live.com/y4myZ-fAoL1jed7E2JyDg7D7XNIicElqGMdE5vhVBTNFoQyfXtU8dv_LaDBGv_X-jgY426ojbLmSRYty9ioJKiDPHCsZNpb4a8cXDNYe5TSiZ5Oroomlupd9IRlrASUdx04kgX5o-4KT6Pf9vgsSPdIWKeR1qsFwMQupceUVX4WGpIfjI7vsg9J5fV8Dh1njaO8?width=1024&height=549&cropmode=none">
+<img src = "https://user-images.githubusercontent.com/61235325/139266586-c82b98d8-ccf1-47a4-8ba3-2b8ddf970285.png" width="80%" height="80%" align ="left">
+<img src = "https://user-images.githubusercontent.com/61235325/139267988-d6703880-2dbe-4fe6-b9a0-fb2891ab491e.png" width = "80%" height = "80%"align = "left">
 
-<p align = "center"> <img src = "https://db3pap005files.storage.live.com/y4mOt-MGykVmzEON4PAWik6ZuCbxTMVIjcAkvH9jNIMtHE78bOyKqW3iBp0caoDZVLeUwJI4NallzgGfIiFBtfAf7tZj7IuHFdM16p4dOn7ruyMbrv0JSwLaeChp_psu0rRUXC4TSHd2Y7p7d87shguXk2MR-DpvrETfnmrPtADN3s2gTLo6d_HKa-IMleO7eB9?width=1024&height=549&cropmode=none">
-<p align = "center"><img src = "https://db3pap005files.storage.live.com/y4muO3orAJBV6iSvM5otO0hNLUjB2QZCZBGd8jbrnr7dAhNps0KcbxI347Zxt5nv26qNSr6CHWTekDTjByzbJvAubcFP9mK7xvEKjPGu5M21jwxtRYyUoomo-aSX2ba5ekniSgogYP3OnTzTw6X68ays7_UI__bNtSUU28-9nFT4gjDJv9vSnLUVOy68TXOefyI?width=1024&height=549&cropmode=none">
+
+<img src = "https://user-images.githubusercontent.com/61235325/139267999-da3ce47a-bd41-4db9-9ee4-f02810b30d58.png" width = "80%" height = "80%" align = "left">
+<img src = "https://user-images.githubusercontent.com/61235325/139268022-e12bd902-be59-43a9-871e-c664fb3640bc.png" width = "80%" height = "80%" align ="left"><br>
+
+
