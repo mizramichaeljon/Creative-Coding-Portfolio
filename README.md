@@ -52,7 +52,10 @@ https://user-images.githubusercontent.com/61235325/139272005-e59d604f-a134-47e4-
 
 <div class = "row">
   <div class = "column">
-<img src = "https://user-images.githubusercontent.com/61235325/139310018-ce43a580-e998-474d-b177-f6692a661589.jpg" width ="50%" height = "50%">
-<img src = "https://user-images.githubusercontent.com/61235325/139310182-82782994-8d3e-4dd6-955e-440d68321cc3.jpg" width = "50%" height = "50%">
-    <
+<img src = "https://user-images.githubusercontent.com/61235325/139310018-ce43a580-e998-474d-b177-f6692a661589.jpg" width ="25%" height = "25%">
+<img src = "https://user-images.githubusercontent.com/61235325/139310182-82782994-8d3e-4dd6-955e-440d68321cc3.jpg" width = "25%" height = "25%">
+ <img src = "https://user-images.githubusercontent.com/61235325/139321430-3668fc38-4748-4fae-858f-8d9e0ccb0a67.jpg" width = "25%" height = "25%">
+ <img src = "https://user-images.githubusercontent.com/61235325/139323661-e5c55fc7-dd37-4eeb-808b-774375d9da8e.jpg" width = "25%" height = "25%">
+  </div>
+</div>
 
