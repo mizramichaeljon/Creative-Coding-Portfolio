@@ -7,7 +7,8 @@
 
 ## Format (2021) - Supercollider, Processing, Audio, Visual, OSC Communication. 
 
-<p>Format is an audiovisual performance exploring communication between different performance systems. It utilises OSC (Open Sound Control) to create a performative language between the audio of Supercollider and the visuals of Processing. OSC is a universal communication protocol that connect a host of contemporary design systems together i.e. Processing, OpenFrameworks, Unity, Unreal, Supercollider. The performance was created for No Bounds Festival 2021 as part of the algorithmic art program. The visuals are generated from deconstructed object meshes of mathematically programmed objects. The audio is built on algoritmic patterns based on morse code.</p> 
+<p>This is a 30 second clip from <i><b>Format</b></i>, a 30 minute audiovisual performance exploring communication between different performance systems. In this program, OSC is used to interface between Supercollider and Processing. OSC is a universal communication protocol that connect a host of contemporary design systems together i.e. Processing, OpenFrameworks, Unity, Unreal, Supercollider.
+In this instance, Supercollider sends OSC commands born from the audio information to Processing. In response, Processing generates and develops the visuals according to an interplay between randomised parameters and defined mathematical forms. The performance was created for No Bounds Festival 2021 as part of the algorithmic art program. This is a short clip from the performance of the track "Alpha Xray" </p> 
 
 
 
@@ -46,8 +47,9 @@ https://user-images.githubusercontent.com/61235325/139272005-e59d604f-a134-47e4-
 </div>
   
 <br><br>
-## Algorithmically Generated Images - Processing
+## Algorithmically Generated Images (2019 - ) - Processing
 
+A selection of images generated from deforming the meshes of mathematically defined objects and exploring parameterisation and randomness. Click on the images for high-definition display. 
 <br><br>
 
 <div class = "row">
