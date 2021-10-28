@@ -4,7 +4,7 @@
 
 ## Format (2021) - Supercollider, Processing, Audio, Visual, OSC Communication. 
 
-<p>Format is an audio-visual performance exploring communication between different performance systems. It utilises OSC (Open Sound Control) to create a performative language between the audio of Supercollider and the visuals of Processing. OSC is a universal communication protocol that connect a host of contemporary design systems together i.e. Processing, OpenFrameworks, Unity, Unreal, Supercollider. The performance was created for No Bounds Festival 2021 as part of the algorithmic art program.</p> 
+<p>Format is an audiovisual performance exploring communication between different performance systems. It utilises OSC (Open Sound Control) to create a performative language between the audio of Supercollider and the visuals of Processing. OSC is a universal communication protocol that connect a host of contemporary design systems together i.e. Processing, OpenFrameworks, Unity, Unreal, Supercollider. The performance was created for No Bounds Festival 2021 as part of the algorithmic art program.</p> 
 
 ## Displacement Native (2021) - Processing, Video, Audio, JSON Data.
 
