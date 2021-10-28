@@ -16,8 +16,11 @@ https://user-images.githubusercontent.com/61235325/139256129-5cdb2344-e428-4a29-
 
 <p>Displacement Native (2021) is a multi-media audiovisual piece. It builds on the data sonification version of 2018. The program is an exercise in composition, utilising a generative particle system to parse and process the JSON data and multiple graphic buffers for the visual elements. The visual source material is decoded into pixel information and stored in 2-D array to enable processing of each pixel element individually, resulting in precise control over interactive elements. The piece was commissioned for the Puncture the Screen festival and continues the narrative of identity and loss by focusing on the migrant experience in Europe when met by far-right extremism. </p>
 
-<p align = "center"><img src = "https://db3pap005files.storage.live.com/y4mSoDFFQUTNZylSEI_iMs51fG9FpfoEcxZlviyVSCe-v60ZMYlpV7arO8Z4ByQu0Ecj6Vfp8tkokP4nhpVymH1iCTxtJ0vCTnmNnK0aVPkr6Lz09sqVsKvkBeMNdKB_v5lX4hlQ2MU2f72J7Z9-_IOCi057kXeZ6yPk_WxE-twWc0-LYnBiYWY5v0lj9lMTjbU?width=1920&height=1080&cropmode=none">
-  
+
+
+https://user-images.githubusercontent.com/61235325/139272005-e59d604f-a134-47e4-b780-ba5cf6b32520.mp4
+
+
   
   
 
